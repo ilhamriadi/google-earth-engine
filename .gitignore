@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+output/
+*.shp
+*.geojson
+*.tif
+*.tiff
+*.pdf
+*.log
+.DS_Store
+credentials/
+config/gce_credentials.json
